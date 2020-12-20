@@ -1,0 +1,4 @@
+media/*.mp4
+*.FCStd[0-9]
+.pio
+.vscode
